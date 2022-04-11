@@ -1,0 +1,22 @@
+{
+  "name": "yourquote",
+  "version": "1.0.0",
+  "description": "A simple NPM Package which returns random Hindi and English Quotes.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satishgupta07/YourQuote.git"
+  },
+  "keywords": [
+    "quotes"
+  ],
+  "author": "Satish Kumar Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satishgupta07/YourQuote/issues"
+  },
+  "homepage": "https://github.com/satishgupta07/YourQuote#readme"
+}
