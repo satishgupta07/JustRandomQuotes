@@ -1,5 +1,5 @@
 {
-  "name": "yourquote",
+  "name": "your_quote",
   "version": "1.0.0",
   "description": "A simple NPM Package which returns random Hindi and English Quotes.",
   "main": "lib/index.js",
