@@ -14,6 +14,7 @@ $ npm install --save justrandomquotes
 const quotes = require('justrandomquotes');
 console.log(quotes.getAllQuotes()); // return all quotes
 console.log(quotes.getQuotesByCategory("Inspirational")); // return quotes by category
+console.log(quotes.getQuotesByLanguage("Hindi")); // return quotes by language
 console.log(quotes.getQuotesByAuthor(authorName)); // return quotes by author name
 console.log(quotes.getTodaysQuote()); // return any random quote
 ```
